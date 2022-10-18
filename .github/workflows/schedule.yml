@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '30 0 * * *'
 concurrency: commit
 jobs:
   fetch:
