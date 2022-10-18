@@ -1,24 +1,19 @@
 BEGIN:VCALENDAR
 NAME:LVMS Events
+VERSION:2.0
+PRODID:https://github.com/ukd1/lvms-events
 DESCRIPTION:Las Vegas Motor Speedway Events, parsed from https://www.lvms.com/events/. Code @ https://github.com/ukd1/lvms-events.
 UID:https://github.com/ukd1/lvms-events
 URL:https://github.com/ukd1/lvms-events
-SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/lvms-events/lvms-events.ics
+SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/lvms-events/main/lvms-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://www.lvms.com/images/header-lvms1.png
 BEGIN:VEVENT
 UID:LLVMS-49661
 SUMMARY:NHRA Division 7 E.T. Bracket Finals
 URL:https://www.lvms.com/tickets/et-bracket-series/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221001T000000Z
 DTSTART;VALUE=DATE:20221001
-DTEND;VALUE=DATE:20221002
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49661
-SUMMARY:NHRA Division 7 E.T. Bracket Finals
-URL:https://www.lvms.com/tickets/et-bracket-series/
-DTSTART;VALUE=DATE:20221002
 DTEND;VALUE=DATE:20221003
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
@@ -27,6 +22,8 @@ BEGIN:VEVENT
 UID:LLVMS-49626
 SUMMARY:Open Test-n-Tune
 URL:https://www.lvms.com/tracks/strip/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221007T000000Z
 DTSTART;VALUE=DATE:20221007
 DTEND;VALUE=DATE:20221008
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -36,16 +33,9 @@ BEGIN:VEVENT
 UID:LLVMS-49637
 SUMMARY:Jr. Dragsters Series Races #9
 URL:https://www.lvms.com/tickets/jr-dragsters/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221008T000000Z
 DTSTART;VALUE=DATE:20221008
-DTEND;VALUE=DATE:20221009
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49637
-SUMMARY:Jr. Dragsters Series Races #9
-URL:https://www.lvms.com/tickets/jr-dragsters/
-DTSTART;VALUE=DATE:20221009
 DTEND;VALUE=DATE:20221010
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
@@ -54,6 +44,8 @@ BEGIN:VEVENT
 UID:LLVMS-49594
 SUMMARY:Star Nursery 150
 URL:https://www.lvms.com/events/star-nursery-150/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221014T000000Z
 DTSTART;VALUE=DATE:20221014
 DTEND;VALUE=DATE:20221015
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -63,6 +55,8 @@ BEGIN:VEVENT
 UID:LLVMS-50956
 SUMMARY:Alsco Uniforms 302
 URL:https://www.lvms.com/events/alsco-uniforms-302/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221015T000000Z
 DTSTART;VALUE=DATE:20221015
 DTEND;VALUE=DATE:20221016
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -72,6 +66,8 @@ BEGIN:VEVENT
 UID:LLVMS-49522
 SUMMARY:South Point 400
 URL:https://www.lvms.com/events/south-point-400/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221016T000000Z
 DTSTART;VALUE=DATE:20221016
 DTEND;VALUE=DATE:20221017
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -81,6 +77,8 @@ BEGIN:VEVENT
 UID:LLVMS-51136
 SUMMARY:FuelFest
 URL:https://fuelfest.com/las-vegas/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221022T000000Z
 DTSTART;VALUE=DATE:20221022
 DTEND;VALUE=DATE:20221023
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -90,34 +88,9 @@ BEGIN:VEVENT
 UID:LLVMS-49560
 SUMMARY:NHRA Nevada Nationals
 URL:https://www.lvms.com/events/nhra-nevada-nationals/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221027T000000Z
 DTSTART;VALUE=DATE:20221027
-DTEND;VALUE=DATE:20221028
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49560
-SUMMARY:NHRA Nevada Nationals
-URL:https://www.lvms.com/events/nhra-nevada-nationals/
-DTSTART;VALUE=DATE:20221028
-DTEND;VALUE=DATE:20221029
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49560
-SUMMARY:NHRA Nevada Nationals
-URL:https://www.lvms.com/events/nhra-nevada-nationals/
-DTSTART;VALUE=DATE:20221029
-DTEND;VALUE=DATE:20221030
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49560
-SUMMARY:NHRA Nevada Nationals
-URL:https://www.lvms.com/events/nhra-nevada-nationals/
-DTSTART;VALUE=DATE:20221030
 DTEND;VALUE=DATE:20221031
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
@@ -126,6 +99,8 @@ BEGIN:VEVENT
 UID:LLVMS-49651
 SUMMARY:NHRA Pro Testing
 URL:
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221031T000000Z
 DTSTART;VALUE=DATE:20221031
 DTEND;VALUE=DATE:20221101
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -135,6 +110,8 @@ BEGIN:VEVENT
 UID:LLVMS-49646
 SUMMARY:LODRS Test-n-Tune
 URL:https://www.lvms.com/tickets/lucas-oil-drag-racing-series/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221103T000000Z
 DTSTART;VALUE=DATE:20221103
 DTEND;VALUE=DATE:20221104
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -144,25 +121,9 @@ BEGIN:VEVENT
 UID:LLVMS-49653
 SUMMARY:NHRA Division 7 Lucas Oil Drag Racing Series (LODRS)
 URL:https://am.ticketmaster.com/lvms/LODRS?camefrom=cfc_lvms_web_lvms_site22
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221104T000000Z
 DTSTART;VALUE=DATE:20221104
-DTEND;VALUE=DATE:20221105
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49653
-SUMMARY:NHRA Division 7 Lucas Oil Drag Racing Series (LODRS)
-URL:https://am.ticketmaster.com/lvms/LODRS?camefrom=cfc_lvms_web_lvms_site22
-DTSTART;VALUE=DATE:20221105
-DTEND;VALUE=DATE:20221106
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49653
-SUMMARY:NHRA Division 7 Lucas Oil Drag Racing Series (LODRS)
-URL:https://am.ticketmaster.com/lvms/LODRS?camefrom=cfc_lvms_web_lvms_site22
-DTSTART;VALUE=DATE:20221106
 DTEND;VALUE=DATE:20221107
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
@@ -171,43 +132,9 @@ BEGIN:VEVENT
 UID:LLVMS-51230
 SUMMARY:Duel in the Desert
 URL:https://racexr.com/e/duel-in-the-desert/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221108T000000Z
 DTSTART;VALUE=DATE:20221108
-DTEND;VALUE=DATE:20221109
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51230
-SUMMARY:Duel in the Desert
-URL:https://racexr.com/e/duel-in-the-desert/
-DTSTART;VALUE=DATE:20221109
-DTEND;VALUE=DATE:20221110
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51230
-SUMMARY:Duel in the Desert
-URL:https://racexr.com/e/duel-in-the-desert/
-DTSTART;VALUE=DATE:20221110
-DTEND;VALUE=DATE:20221111
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51230
-SUMMARY:Duel in the Desert
-URL:https://racexr.com/e/duel-in-the-desert/
-DTSTART;VALUE=DATE:20221111
-DTEND;VALUE=DATE:20221112
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51230
-SUMMARY:Duel in the Desert
-URL:https://racexr.com/e/duel-in-the-desert/
-DTSTART;VALUE=DATE:20221112
 DTEND;VALUE=DATE:20221113
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
@@ -216,52 +143,9 @@ BEGIN:VEVENT
 UID:LLVMS-49657
 SUMMARY:Street Car Super Nationals (SCSN)
 URL:https://www.streetcarsupernationals.com/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221115T000000Z
 DTSTART;VALUE=DATE:20221115
-DTEND;VALUE=DATE:20221116
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49657
-SUMMARY:Street Car Super Nationals (SCSN)
-URL:https://www.streetcarsupernationals.com/
-DTSTART;VALUE=DATE:20221116
-DTEND;VALUE=DATE:20221117
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49657
-SUMMARY:Street Car Super Nationals (SCSN)
-URL:https://www.streetcarsupernationals.com/
-DTSTART;VALUE=DATE:20221117
-DTEND;VALUE=DATE:20221118
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49657
-SUMMARY:Street Car Super Nationals (SCSN)
-URL:https://www.streetcarsupernationals.com/
-DTSTART;VALUE=DATE:20221118
-DTEND;VALUE=DATE:20221119
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49657
-SUMMARY:Street Car Super Nationals (SCSN)
-URL:https://www.streetcarsupernationals.com/
-DTSTART;VALUE=DATE:20221119
-DTEND;VALUE=DATE:20221120
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49657
-SUMMARY:Street Car Super Nationals (SCSN)
-URL:https://www.streetcarsupernationals.com/
-DTSTART;VALUE=DATE:20221120
 DTEND;VALUE=DATE:20221121
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
@@ -270,43 +154,9 @@ BEGIN:VEVENT
 UID:LLVMS-49658
 SUMMARY:Thanksgiving E.T. Bracket Nationals
 URL:https://www.lvms.com/tickets/et-bracket-series/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221123T000000Z
 DTSTART;VALUE=DATE:20221123
-DTEND;VALUE=DATE:20221124
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49658
-SUMMARY:Thanksgiving E.T. Bracket Nationals
-URL:https://www.lvms.com/tickets/et-bracket-series/
-DTSTART;VALUE=DATE:20221124
-DTEND;VALUE=DATE:20221125
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49658
-SUMMARY:Thanksgiving E.T. Bracket Nationals
-URL:https://www.lvms.com/tickets/et-bracket-series/
-DTSTART;VALUE=DATE:20221125
-DTEND;VALUE=DATE:20221126
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49658
-SUMMARY:Thanksgiving E.T. Bracket Nationals
-URL:https://www.lvms.com/tickets/et-bracket-series/
-DTSTART;VALUE=DATE:20221126
-DTEND;VALUE=DATE:20221127
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-49658
-SUMMARY:Thanksgiving E.T. Bracket Nationals
-URL:https://www.lvms.com/tickets/et-bracket-series/
-DTSTART;VALUE=DATE:20221127
 DTEND;VALUE=DATE:20221128
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
@@ -315,6 +165,8 @@ BEGIN:VEVENT
 UID:LLVMS-49606
 SUMMARY:Bullring Open Comp
 URL:https://www.lvms.com/tracks/bullring/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221202T000000Z
 DTSTART;VALUE=DATE:20221202
 DTEND;VALUE=DATE:20221203
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -324,6 +176,8 @@ BEGIN:VEVENT
 UID:LLVMS-49627
 SUMMARY:Open Test-n-Tune
 URL:https://www.lvms.com/tracks/strip/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221203T000000Z
 DTSTART;VALUE=DATE:20221203
 DTEND;VALUE=DATE:20221204
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -333,6 +187,8 @@ BEGIN:VEVENT
 UID:LLVMS-49648
 SUMMARY:Import Face-Off (IFO)
 URL:https://importfaceoff.net/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20221204T000000Z
 DTSTART;VALUE=DATE:20221204
 DTEND;VALUE=DATE:20221205
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -342,6 +198,8 @@ BEGIN:VEVENT
 UID:LLVMS-51224
 SUMMARY:Victoria’s Voice Foundation 200
 URL:https://www.lvms.com/events/victoria-s-voice-foundation-200/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20230303T000000Z
 DTSTART;VALUE=DATE:20230303
 DTEND;VALUE=DATE:20230304
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -351,6 +209,8 @@ BEGIN:VEVENT
 UID:LLVMS-50955
 SUMMARY:Alsco Uniforms 300
 URL:https://www.lvms.com/events/alsco-uniforms-300/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20230304T000000Z
 DTSTART;VALUE=DATE:20230304
 DTEND;VALUE=DATE:20230305
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -360,6 +220,8 @@ BEGIN:VEVENT
 UID:LLVMS-50954
 SUMMARY:Pennzoil 400
 URL:https://www.lvms.com/events/pennzoil-400/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20230305T000000Z
 DTSTART;VALUE=DATE:20230305
 DTEND;VALUE=DATE:20230306
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
@@ -369,25 +231,9 @@ BEGIN:VEVENT
 UID:LLVMS-51146
 SUMMARY:NHRA Four-Wide Nationals
 URL:https://www.lvms.com/events/nhra-four-wide-nationals/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20230414T000000Z
 DTSTART;VALUE=DATE:20230414
-DTEND;VALUE=DATE:20230415
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51146
-SUMMARY:NHRA Four-Wide Nationals
-URL:https://www.lvms.com/events/nhra-four-wide-nationals/
-DTSTART;VALUE=DATE:20230415
-DTEND;VALUE=DATE:20230416
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51146
-SUMMARY:NHRA Four-Wide Nationals
-URL:https://www.lvms.com/events/nhra-four-wide-nationals/
-DTSTART;VALUE=DATE:20230416
 DTEND;VALUE=DATE:20230417
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
@@ -396,6 +242,8 @@ BEGIN:VEVENT
 UID:LLVMS-51267
 SUMMARY:South Point 400
 URL:https://www.lvms.com/events/south-point-400-2023/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20231015T000000Z
 DTSTART;VALUE=DATE:20231015
 DTEND;VALUE=DATE:20231016
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
