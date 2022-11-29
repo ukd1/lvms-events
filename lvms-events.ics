@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51224
 SUMMARY:Victoria’s Voice Foundation 200
-URL:https://www.lvms.com/events/victoria-s-voice-foundation-200/
+URL:https://www.lvms.com/events/victorias-voice-foundation-200/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230303T000000Z
 DTSTART;VALUE=DATE:20230303
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51267
 SUMMARY:South Point 400
-URL:https://www.lvms.com/events/south-point-400-2023/
+URL:https://www.lvms.com/events/south-point-400/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20231015T000000Z
 DTSTART;VALUE=DATE:20231015
