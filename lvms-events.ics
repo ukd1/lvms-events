@@ -8,72 +8,6 @@ URL:https://github.com/ukd1/lvms-events
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/lvms-events/main/lvms-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://www.lvms.com/images/header-lvms1.png
 BEGIN:VEVENT
-UID:LLVMS-51607
-SUMMARY:Indy Autonomous Challenge
-URL:https://www.indyautonomouschallenge.com/ces-2023-schedule
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230107T000000Z
-DTSTART;VALUE=DATE:20230107
-DTEND;VALUE=DATE:20230108
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51548
-SUMMARY:USLCI Legends Road Course Series
-URL:
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230108T000000Z
-DTSTART;VALUE=DATE:20230108
-DTEND;VALUE=DATE:20230109
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51608
-SUMMARY:Crossroads of the West Gun Show
-URL:https://www.crossroadsgunshows.com/event/las-vegas-motor-speedway-las-vegas-nv/
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230114T000000Z
-DTSTART;VALUE=DATE:20230114
-DTEND;VALUE=DATE:20230116
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51559
-SUMMARY:USLCI Legends Road Course Series
-URL:
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230121T000000Z
-DTSTART;VALUE=DATE:20230121
-DTEND;VALUE=DATE:20230123
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51563
-SUMMARY:Bracket Test-n-Tune
-URL:https://www.lvms.com/tickets/et-bracket-series/
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230127T000000Z
-DTSTART;VALUE=DATE:20230127
-DTEND;VALUE=DATE:20230128
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51564
-SUMMARY:Jr. Dragsters Series Races #1 & #2
-URL:https://www.lvms.com/tickets/jr-dragsters/
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230128T000000Z
-DTSTART;VALUE=DATE:20230128
-DTEND;VALUE=DATE:20230130
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
 UID:LLVMS-49621
 SUMMARY:Summit Racing Equipment Mayhem
 URL:https://www.lvms.com/tickets/summit-mayhem/
@@ -362,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51555
 SUMMARY:Bullring Championship Series Race Night #8
-URL:https://www.lvms.com/tracks/bullring/
+URL:https://fevo.us/fv-offer--20230201-WWM-1063/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230603T000000Z
 DTSTART;VALUE=DATE:20230603
@@ -384,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51558
 SUMMARY:Bullring Championship Series Race Night #9
-URL:https://www.lvms.com/tracks/bullring/
+URL:https://fevo.us/fv-offer--20230201-8MF-1063/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230617T000000Z
 DTSTART;VALUE=DATE:20230617
@@ -395,7 +329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51556
 SUMMARY:Bullring "Annual Night of Fire" Race #10
-URL:https://www.lvms.com/tracks/bullring/
+URL:https://fevo.us/fv-offer--20230201-TRS-1063/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230703T000000Z
 DTSTART;VALUE=DATE:20230703
