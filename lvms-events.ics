@@ -140,9 +140,9 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-51566
-SUMMARY:Open Test-n-Tune
-URL:https://www.lvms.com/tracks/strip/
+UID:LLVMS-51937
+SUMMARY:5K Bubble Run
+URL:https://bubblerun.com/locations/las-vegas/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230311T000000Z
 DTSTART;VALUE=DATE:20230311
@@ -173,9 +173,20 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-51575
-SUMMARY:Bracket Test-n-Tune
-URL:https://www.lvms.com/tickets/et-bracket-series/
+UID:LLVMS-51940
+SUMMARY:Dodge Last Call Powered by Roadkill Nights Vegas
+URL:https://www.motortrend.com/dodgelastcall/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20230320T000000Z
+DTSTART;VALUE=DATE:20230320
+DTEND;VALUE=DATE:20230321
+ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
+GEO:36.2724;-115.0104
+END:VEVENT
+BEGIN:VEVENT
+UID:LLVMS-51935
+SUMMARY:FoodieLand Night Market
+URL:https://foodielandnm.com/las-vegas/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230324T000000Z
 DTSTART;VALUE=DATE:20230324
@@ -184,9 +195,9 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-51576
-SUMMARY:Jr. Dragsters Series Races #5 & #6
-URL:https://www.lvms.com/tickets/jr-dragsters/
+UID:LLVMS-51942
+SUMMARY:SCCA National – Pro Solo Tour
+URL:https://www.scca.com/events/2002684-2023-tire-rack-scca-las-vegas-prosolo-las-vegas-motor-speedway/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230325T000000Z
 DTSTART;VALUE=DATE:20230325
@@ -195,13 +206,13 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-51934
-SUMMARY:Bullring Championship Series Race Night #2 - Rescheduled
-URL:
+UID:LLVMS-51943
+SUMMARY:SCCA Solo National Tour
+URL:https://solonats.motorsportreg.com/events/2023-tire-rack-scca-las-vegas-national-tour-motor-speedway-solo-153906
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230401T000000Z
-DTSTART;VALUE=DATE:20230401
-DTEND;VALUE=DATE:20230402
+DTSTAMP:20230331T000000Z
+DTSTART;VALUE=DATE:20230331
+DTEND;VALUE=DATE:20230403
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
