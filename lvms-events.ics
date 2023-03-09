@@ -102,17 +102,6 @@ URL:https://foodielandnm.com/las-vegas/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230324T000000Z
 DTSTART;VALUE=DATE:20230324
-DTEND;VALUE=DATE:20230325
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51942
-SUMMARY:SCCA National – Pro Solo Tour
-URL:https://www.scca.com/events/2002684-2023-tire-rack-scca-las-vegas-prosolo-las-vegas-motor-speedway/
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230325T000000Z
-DTSTART;VALUE=DATE:20230325
 DTEND;VALUE=DATE:20230327
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
