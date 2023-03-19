@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51574
 SUMMARY:Muscle Cars at The Strip
-URL:https://www.matslv.com/
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230317T000000Z
 DTSTART;VALUE=DATE:20230317
