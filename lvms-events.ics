@@ -30,17 +30,6 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-51146
-SUMMARY:NHRA Four-Wide Nationals
-URL:https://www.lvms.com/events/nhra-four-wide-nationals/
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230414T000000Z
-DTSTART;VALUE=DATE:20230414
-DTEND;VALUE=DATE:20230417
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
 UID:LLVMS-51579
 SUMMARY:LODRS Test-n-Tune
 URL:https://am.ticketmaster.com/lvms/LODRSSP23
