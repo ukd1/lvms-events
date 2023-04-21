@@ -74,24 +74,13 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-51583
-SUMMARY:Bracket Test-n-Tune
-URL:https://www.lvms.com/tickets/et-bracket-series/
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230505T000000Z
-DTSTART;VALUE=DATE:20230505
-DTEND;VALUE=DATE:20230506
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51584
-SUMMARY:Jr. Dragsters Series Races #7 & #8
-URL:https://www.lvms.com/tickets/jr-dragsters/
+UID:LLVMS-51554
+SUMMARY:Bullring Championship Series Race Night #7
+URL:https://fevo.us/fv-offer--20230201-HPS-1063/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230506T000000Z
 DTSTART;VALUE=DATE:20230506
-DTEND;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230507
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
@@ -213,6 +202,17 @@ LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 891
 DTSTAMP:20230915T000000Z
 DTSTART;VALUE=DATE:20230915
 DTEND;VALUE=DATE:20230916
+ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
+GEO:36.2724;-115.0104
+END:VEVENT
+BEGIN:VEVENT
+UID:LLVMS-51584
+SUMMARY:Jr. Dragsters Series Races #7 & #8 - Rescheduled
+URL:https://www.lvms.com/tickets/jr-dragsters/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20230916T000000Z
+DTSTART;VALUE=DATE:20230916
+DTEND;VALUE=DATE:20230918
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
