@@ -217,9 +217,9 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-51392
-SUMMARY:NHRA Nevada Nationals
-URL:https://www.lvms.com/events/nhra-nevada-nationals/
+UID:LLVMS-52744
+SUMMARY:EchoPark Take It To The Track Owner Celebration Day
+URL:https://bit.ly/3plqKAP
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20231029T000000Z
 DTSTART;VALUE=DATE:20231029
