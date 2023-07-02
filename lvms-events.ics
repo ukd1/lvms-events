@@ -8,50 +8,6 @@ URL:https://github.com/ukd1/lvms-events
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/lvms-events/main/lvms-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://www.lvms.com/images/header-lvms1.png
 BEGIN:VEVENT
-UID:LLVMS-51586
-SUMMARY:Summit Racing Equipment Mayhem
-URL:
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230602T000000Z
-DTSTART;VALUE=DATE:20230602
-DTEND;VALUE=DATE:20230603
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51555
-SUMMARY:Bullring Championship Series Race Night #8
-URL:
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230603T000000Z
-DTSTART;VALUE=DATE:20230603
-DTEND;VALUE=DATE:20230604
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51587
-SUMMARY:Summit Racing Equipment Mayhem
-URL:
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230616T000000Z
-DTSTART;VALUE=DATE:20230616
-DTEND;VALUE=DATE:20230617
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51558
-SUMMARY:Bullring Championship Series Race Night #9
-URL:
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230617T000000Z
-DTSTART;VALUE=DATE:20230617
-DTEND;VALUE=DATE:20230618
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
 UID:LLVMS-51556
 SUMMARY:Bullring "Annual Night of Fire" Race #10
 URL:https://fevo.us/fv-offer--20230201-TRS-1063/
