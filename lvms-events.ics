@@ -74,28 +74,6 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-51595
-SUMMARY:Summit Racing Equipment Mayhem
-URL:https://www.lvms.com/tickets/summit-mayhem/
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230915T000000Z
-DTSTART;VALUE=DATE:20230915
-DTEND;VALUE=DATE:20230916
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51584
-SUMMARY:Jr. Dragsters Series Races #7 & #8 - Rescheduled
-URL:https://www.lvms.com/tickets/jr-dragsters/
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20230916T000000Z
-DTSTART;VALUE=DATE:20230916
-DTEND;VALUE=DATE:20230918
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
 UID:LLVMS-51596
 SUMMARY:NHRA Division 7 Jr. Dragster Finals
 URL:https://www.lvms.com/tickets/jr-dragsters/
