@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-52827
 SUMMARY:Street Outlaws- No Prep Kings
-URL:
+URL:https://streetoutlawsnoprep.com
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230915T000000Z
 DTSTART;VALUE=DATE:20230915
