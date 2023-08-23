@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-52827
 SUMMARY:Street Outlaws- No Prep Kings
-URL:https://www.thefoat.com/
+URL:https://tickets.thefoat.com/StreetOutlaws/Street+Outlaws+No+Prep+Kings+Las+Vegas+Speedway/tickets/id-6H8YU0C6UqT-/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230915T000000Z
 DTSTART;VALUE=DATE:20230915
@@ -130,7 +130,7 @@ GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51557
-SUMMARY:Star Nursery Classic Open Comp
+SUMMARY:Star Nursery Classic
 URL:https://www.lvms.com/tracks/bullring/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20231025T000000Z
