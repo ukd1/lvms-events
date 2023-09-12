@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51593
 SUMMARY:Jr. Dragsters Series Races #9 & #10
-URL:https://www.lvms.com/tickets/jr-dragsters/
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230909T000000Z
 DTSTART;VALUE=DATE:20230909
