@@ -10,7 +10,7 @@ IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://www.lvms.com/images/head
 BEGIN:VEVENT
 UID:LLVMS-51597
 SUMMARY:NHRA Division 7 Summit E.T. Bracket Finals
-URL:https://www.lvms.com/tickets/et-bracket-series/
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20230927T000000Z
 DTSTART;VALUE=DATE:20230927
