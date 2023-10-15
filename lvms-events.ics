@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-51562
 SUMMARY:Star Nursery 150
-URL:https://www.lvms.com/events/star-nursery-150/
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20231013T000000Z
 DTSTART;VALUE=DATE:20231013
