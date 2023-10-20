@@ -195,13 +195,13 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-52947
-SUMMARY:South Point 400 Weekend
-URL:https://am.ticketmaster.com/lvms/quickbuy?id=Mjk=
+UID:LLVMS-52988
+SUMMARY:South Point 400
+URL:https://www.lvms.com/events/south-point-400/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20241018T000000Z
 DTSTART;VALUE=DATE:20241018
-DTEND;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241020
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
