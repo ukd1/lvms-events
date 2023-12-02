@@ -8,28 +8,6 @@ URL:https://github.com/ukd1/lvms-events
 SOURCE;VALUE=URI:https://raw.githubusercontent.com/ukd1/lvms-events/main/lvms-events.ics
 IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://www.lvms.com/images/header-lvms1.png
 BEGIN:VEVENT
-UID:LLVMS-51599
-SUMMARY:LODRS Test-n-Tune
-URL:
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20231101T000000Z
-DTSTART;VALUE=DATE:20231101
-DTEND;VALUE=DATE:20231102
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-51600
-SUMMARY:NHRA Division 7 Lucas Oil Drag Racing Series (LODRS 7-7)
-URL:
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20231102T000000Z
-DTSTART;VALUE=DATE:20231102
-DTEND;VALUE=DATE:20231106
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
 UID:LLVMS-53226
 SUMMARY:Glittering Lights
 URL:https://glitteringlightslasvegas.com/
@@ -37,6 +15,28 @@ LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 891
 DTSTAMP:20231109T000000Z
 DTSTART;VALUE=DATE:20231109
 DTEND;VALUE=DATE:20240108
+ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
+GEO:36.2724;-115.0104
+END:VEVENT
+BEGIN:VEVENT
+UID:LLVMS-51604
+SUMMARY:Import Face-Off (IFO)
+URL:https://importfaceoff.net/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20231203T000000Z
+DTSTART;VALUE=DATE:20231203
+DTEND;VALUE=DATE:20231204
+ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
+GEO:36.2724;-115.0104
+END:VEVENT
+BEGIN:VEVENT
+UID:LLVMS-53167
+SUMMARY:HOT ROD Power Tour West
+URL:https://www.motortrend.com/hot-rod-power-tour-west/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20231216T000000Z
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231217
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
