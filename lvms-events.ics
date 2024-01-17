@@ -196,8 +196,8 @@ GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53411
-SUMMARY:Bullring Championship Series Race Night #3
-URL:
+SUMMARY:The Bullring Championship Series Race Night #3
+URL:https://fevo-enterprise.com/group/2024Bullring
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240323T000000Z
 DTSTART;VALUE=DATE:20240323
@@ -306,8 +306,8 @@ GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53413
-SUMMARY:Bullring Championship Series Race Night #5
-URL:
+SUMMARY:The Bullring Championship Series Race Night #5
+URL:https://fevo-enterprise.com/group/2024Bullring
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240504T000000Z
 DTSTART;VALUE=DATE:20240504
@@ -350,8 +350,8 @@ GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53414
-SUMMARY:Bullring Championship Series Race Night #6
-URL:
+SUMMARY:The Bullring Championship Series Race Night #6
+URL:https://fevo-enterprise.com/group/2024Bullring
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240615T000000Z
 DTSTART;VALUE=DATE:20240615
@@ -361,8 +361,8 @@ GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53415
-SUMMARY:Bullring Championship Series Race Night #7
-URL:
+SUMMARY:The Bullring Championship Series Race Night #7
+URL:https://fevo-enterprise.com/group/2024Bullring
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240622T000000Z
 DTSTART;VALUE=DATE:20240622
@@ -383,8 +383,8 @@ GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53416
-SUMMARY:Bullring "Annual Night of Fire" Race #8
-URL:
+SUMMARY:The Bullring "Annual Night of Fire" Race #8
+URL:https://fevo-enterprise.com/group/2024Bullring
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240703T000000Z
 DTSTART;VALUE=DATE:20240703
@@ -496,8 +496,8 @@ UID:LLVMS-52988
 SUMMARY:South Point 400
 URL:https://www.lvms.com/events/south-point-400/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20241019T000000Z
-DTSTART;VALUE=DATE:20241019
+DTSTAMP:20241018T000000Z
+DTSTART;VALUE=DATE:20241018
 DTEND;VALUE=DATE:20241020
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
