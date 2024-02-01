@@ -208,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53411
 SUMMARY:The Bullring Championship Series Race Night #3
-URL:https://fevo-enterprise.com/group/2024Bullring
+URL:https://fevo-enterprise.com/group/2024Bullring0323
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240323T000000Z
 DTSTART;VALUE=DATE:20240323
@@ -318,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53413
 SUMMARY:The Bullring Championship Series Race Night #5
-URL:https://fevo-enterprise.com/group/2024Bullring
+URL:https://fevo-enterprise.com/group/2024Bullring0504
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240504T000000Z
 DTSTART;VALUE=DATE:20240504
@@ -373,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53415
 SUMMARY:The Bullring Championship Series Race Night #7
-URL:https://fevo-enterprise.com/group/2024Bullring
+URL:https://fevo-enterprise.com/group/2024Bullring0622
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240622T000000Z
 DTSTART;VALUE=DATE:20240622
@@ -395,7 +395,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53416
 SUMMARY:The Bullring "Annual Night of Fire" Race #8
-URL:https://fevo-enterprise.com/group/2024Bullring
+URL:https://fevo-enterprise.com/group/2024Bullring0703
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240703T000000Z
 DTSTART;VALUE=DATE:20240703
