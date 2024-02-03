@@ -514,6 +514,17 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
+UID:LLVMS-53645
+SUMMARY:Duel in the Desert
+URL:https://duelvegas.com/home/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20241113T000000Z
+DTSTART;VALUE=DATE:20241113
+DTEND;VALUE=DATE:20241117
+ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
+GEO:36.2724;-115.0104
+END:VEVENT
+BEGIN:VEVENT
 UID:LLVMS-53403
 SUMMARY:Street Car Super Nationals (SCSN)
 URL:https://www.streetcarsupernationals.com/
