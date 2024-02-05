@@ -10,7 +10,7 @@ IMAGE;VALUE=URI;DISPLAY=BADGE;FMTTYPE=image/png:https://www.lvms.com/images/head
 BEGIN:VEVENT
 UID:LLVMS-53369
 SUMMARY:2XR Monster Truck Series
-URL:https://rebrand.ly/LVMSMONSTERS3
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240203T000000Z
 DTSTART;VALUE=DATE:20240203
