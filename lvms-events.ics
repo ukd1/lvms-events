@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53404
 SUMMARY:Crossroads of the West Gun Show
-URL:https://www.crossroadsgunshows.com/venue/las-vegas-motor-speedway-las-vegas-nv/
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240204T000000Z
 DTSTART;VALUE=DATE:20240204
@@ -96,20 +96,20 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-53362
-SUMMARY:Summit E.T. Bracket Series Races #4 & #5
-URL:https://www.lvms.com/tickets/et-bracket-series/
+UID:LLVMS-53660
+SUMMARY:Jr. Dragsters Series Races #5 & #6
+URL:https://www.lvms.com/tickets/jr-dragsters/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240224T000000Z
 DTSTART;VALUE=DATE:20240224
-DTEND;VALUE=DATE:20240225
+DTEND;VALUE=DATE:20240226
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53659
 SUMMARY:Victoria’s Voice Foundation 200
-URL:https://www.lvms.com/events/victoria-s-voice-foundation-200-63076/
+URL:https://www.lvms.com/events/victoria-s-voice-foundation-200/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240301T000000Z
 DTSTART;VALUE=DATE:20240301
