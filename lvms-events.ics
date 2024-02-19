@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53361
 SUMMARY:Summit E.T. Bracket Series Races #3
-URL:https://www.lvms.com/tickets/et-bracket-series/
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240217T000000Z
 DTSTART;VALUE=DATE:20240217
