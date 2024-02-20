@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-53476
 SUMMARY:Daytona 500 Viewing Party
-URL:https://www.lvms.com/daytona-viewing-party/
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240218T000000Z
 DTSTART;VALUE=DATE:20240218
@@ -229,7 +229,7 @@ GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-52842
-SUMMARY:NHRA Four-Wide Nationals
+SUMMARY:NHRA 4-Wide Nationals
 URL:https://www.lvms.com/events/nhra-four-wide-nationals/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240412T000000Z
