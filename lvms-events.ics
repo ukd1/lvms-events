@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:LLVMS-52842
 SUMMARY:NHRA 4-Wide Nationals
-URL:https://www.lvms.com/events/nhra-four-wide-nationals/
+URL:https://www.lvms.com/events/nhra-4-wide-nationals/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240412T000000Z
 DTSTART;VALUE=DATE:20240412
