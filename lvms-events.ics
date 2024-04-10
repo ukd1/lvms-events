@@ -228,6 +228,17 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
+UID:LLVMS-53946
+SUMMARY:Street Outlaws — No Prep Kings
+URL:https://tickets.thefoat.com/StreetOutlaws/Street+Outlaws+NPK+Las+Vegas+Motor+Speedway/tickets/id-FzA5NwdzMvNY/
+LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
+DTSTAMP:20240913T000000Z
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240915
+ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
+GEO:36.2724;-115.0104
+END:VEVENT
+BEGIN:VEVENT
 UID:LLVMS-53345
 SUMMARY:Frank Hawley Driving School
 URL:https://frankhawley.com/
@@ -239,23 +250,12 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-53336
-SUMMARY:Summit Racing Equipment Mayhem
-URL:https://www.lvms.com/tickets/summit-mayhem/
+UID:LLVMS-53919
+SUMMARY:SuperMotocross World Championship Final
+URL:https://www.lvms.com/events/supermotocross-world-championship-final/
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20240920T000000Z
 DTSTART;VALUE=DATE:20240920
-DTEND;VALUE=DATE:20240921
-ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
-GEO:36.2724;-115.0104
-END:VEVENT
-BEGIN:VEVENT
-UID:LLVMS-53919
-SUMMARY:SuperMotocross World Championship Final
-URL:https://www.ticketmaster.com/supermotocross-world-championship-finals-tickets/artist/2963990?venueId=189554
-LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
-DTSTAMP:20240921T000000Z
-DTSTART;VALUE=DATE:20240921
 DTEND;VALUE=DATE:20240922
 ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
