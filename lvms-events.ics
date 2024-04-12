@@ -382,9 +382,9 @@ ORGANIZER;CN=LVMS:MAILTO:ticketservices@lvms.com
 GEO:36.2724;-115.0104
 END:VEVENT
 BEGIN:VEVENT
-UID:LLVMS-53328
-SUMMARY:Open Test-n-Tune
-URL:https://www.lvms.com/tracks/strip/
+UID:LLVMS-53953
+SUMMARY:Race of Champions presented by Cory Mac
+URL:
 LOCATION:Las Vegas Motor Speedway, 7000 Las Vegas Blvd. North, Las Vegas, NV 89115, USA
 DTSTAMP:20241207T000000Z
 DTSTART;VALUE=DATE:20241207
